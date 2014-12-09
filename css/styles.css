@@ -6,21 +6,19 @@ p#intro{
 
 html,body {
   height:100%;
-  background-color: rgb(24, 24, 24);
 }
 p.cursive{
 	font-family: 'Over the Rainbow', cursive;
 	font-size: 100px;
 }
 h1 {
-  font-family: Cambria;
-  font-size: 65px;
-  color:#CC4646; /*red*/
+  font-family: Arial,sans-serif
+  font-size:80px;
+  color:#DDCCEE;
 }
 
 .lead {
 	color:#DDCCEE;
-	font-size: 100px;
 }
 
 
@@ -28,12 +26,11 @@ h1 {
 .container-full {
   margin: 0 auto;
   width: 100%;
-  min-height:60%;
+  min-height:100%;
   background-color:rgb(24, 24, 24);
   color:#eee;
   overflow:hidden;
 }
-
 
 .container-full a {
   color:#efefef;
@@ -62,7 +59,7 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-	/*background: #E4E4E4;*/
+    background: #E4E4E4;
 }
 
 ::selection {
@@ -73,16 +70,6 @@ body {
 ::-moz-selection {
     color: #fff;
     background: #CC4646;
-}
-
-.form-group{
-	color: #CC4646;
-}
-h4, h2{
-	color: #CC4646;
-}
-address{
-	color: #858585;
 }
 
 p {
@@ -202,7 +189,7 @@ margin: 0;
 background: transparent !important;
 }
     .navbar-inverse .navbar-toggle .icon-bar {
-        background-color: #CC4646;;
+        /*background-color: #CC4646;*/;
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
