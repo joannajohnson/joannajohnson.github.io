@@ -1,8 +1,17 @@
+p#intro{
+	max-width: 900px;
+	vertical-align: middle;
+	margin: 0 auto;
+}
+
 html,body {
   height:100%;
   background-color: rgb(24, 24, 24);
 }
-
+p.cursive{
+	font-family: 'Over the Rainbow', cursive;
+	font-size: 100px;
+}
 h1 {
   font-family: Cambria;
   font-size: 65px;
