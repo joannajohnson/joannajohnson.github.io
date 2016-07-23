@@ -223,6 +223,7 @@ background: none;
 }	
 .navbar{
 	background-color: rgb(255, 255, 204);
+	#CC4646
 }
 .navbar-toggle {
 }
@@ -996,6 +997,7 @@ footer {
 
     .navbar-nav {
         float: right;
+        color: #CC4646;
     }
 
     .navbar-inverse .navbar-nav > li > a {  
