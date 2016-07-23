@@ -195,9 +195,10 @@ margin: 4px;
 .header .navbar {
 margin: 0;
 background: transparent !important;
+color: #CC4646;
 }
     .navbar-inverse .navbar-toggle .icon-bar {
-        background-color: #CC4646;;
+        background-color: #000000;
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
